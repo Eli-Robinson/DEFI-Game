@@ -6,7 +6,7 @@ function createLevels()
       trackOffset: createVector(width/2 - 250, height/2 - 50),
       testChargeStartingPosition: createVector(50, 50), 
       starPositions: [
-          [createVector(200, 50), createVector(300, 50), createVector(400, 50)],
+          [createVector(150, 50), createVector(300, 50), createVector(400, 50)],
           [createVector(250, 50), createVector(300, 50), createVector(400, 50)],
           [createVector(300, 50), createVector(300, 50), createVector(400, 50)],
           [createVector(350, 50), createVector(300, 50), createVector(400, 50)],
